@@ -1,0 +1,33 @@
+_repo: Laupeuden-ty-t_22649
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suomalainen, Katri
+    gutenberg_agent_id: '25472'
+    url: http://www.gutenberg.org/2009/agents/25472
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riehl, Wilhelm Heinrich
+    alias: Riehl, W. H. (Wilhelm Heinrich)
+    birthdate: 1823
+    deathdate: 1897
+    gutenberg_agent_id: '25473'
+    url: http://www.gutenberg.org/2009/agents/25473
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_Heinrich_Riehl
+description: ''
+gutenberg_issued: '2007-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22649'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+title: Laupeuden työt
+url: http://www.gutenberg.org/ebooks/22649
